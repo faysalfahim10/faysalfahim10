@@ -78,7 +78,21 @@ university: University of Chittagong
 <br> 
 
 ---
+## 🏆 Competitive Programming Stats
 
+<div align="center">
+  
+### Codeforces Performance
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=faysalfahim)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=faysalfahim&theme=dark)](https://codeforces.com/profile/faysalfahim)
+
+### Codeshef Performance
+[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=faysal10)](https://www.codechef.com/profile/faysal10)
+
+</div>
+
+----
 <p align = "center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
