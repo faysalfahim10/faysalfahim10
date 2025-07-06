@@ -88,7 +88,7 @@ university: University of Chittagong
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=faysalfahim&theme=dark)](https://codeforces.com/profile/faysalfahim)
 
 ### Codeshef Performance
-[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=faysal10)](https://www.codechef.com/profile/faysal10)
+[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=faysal10)](https://www.codechef.com/users/faysal10)
 
 </div>
 
