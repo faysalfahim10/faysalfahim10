@@ -23,9 +23,9 @@ university: University of Chittagong
 ```
 
 - 🔭 **Currently Working On:** Database Management Project
-- 🌱 **Currently Learning:** DBMS & Algorithms
+- 🌱 **Currently Learning:** DBMS, Numerical Methods & Algorithms
 - 🎯 **Goal:** Becoming a skilled Software Engineer
-- 💡 **Ask Me About:** C/C++, Java, Python, Git/GitHu
+- 💡 **Ask Me About:** C/C++, Java, Python, Git/GitHub
 - ⚡ **Fun fact:** I Love Singing, Music and Drawing
 - 📫 **Reach Me:** [Email](mailto:faysal.csecu@gmail.com)
 
